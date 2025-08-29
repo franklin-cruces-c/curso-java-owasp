@@ -1,0 +1,5 @@
+2025-08-29 02:28:48.100 [main] Logueando [INFO ] - En metodoQueFallaConLogsPobres
+2025-08-29 02:28:48.103 [main] Logueando [INFO ] - En metodoQueFallaConLogsDetallados arg1: hola arg2: 10 arg3: true
+2025-08-29 02:28:48.103 [main] Logueando [ERROR] - java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+2025-08-29 02:28:48.103 [main] Logueando [INFO ] - En metodoQueFallaConLogsExcesivos arg1: hola arg2: 10 arg3: true secreto: secretoMuySecreto
+2025-08-29 02:28:48.103 [main] Logueando [INFO ] - En metodoQueFallaConLogsExcesivos dentro del if
